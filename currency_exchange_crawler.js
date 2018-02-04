@@ -2,7 +2,7 @@
  * @author Mohammad Hassany <jone30rw@gmail.com>
  * 
  * The get_currency_rates function will download the specified url (http://dab.gov.af/en/dab/currency) then use the jQuery find function to find the tr's containing the exchange rates.
- * Note: This is snippet only works with current format of DAB (Da Afghanistan Bank), so it may not work in future.
+ * Note: This is snippet only works with current format of DAB (Da Afghanistan Bank) html structure, so it may not work in future.
  *
  * Example:
  *   // call the function with a callback function
